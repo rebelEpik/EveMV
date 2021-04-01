@@ -5,7 +5,7 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:EveMV"
         mc:Ignorable="d"
-        Title="MainWindow" Height="450" Width="800">
+        Title="Eve MultiView" Height="450" Width="392.683">
     <Grid>
         
     </Grid>
